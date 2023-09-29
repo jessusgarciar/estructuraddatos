@@ -41,3 +41,13 @@ Estructura de datos: son aquellas que nos permiten, como desarrolladores, organi
 **Ciencia de datos**: Es el estudio de datos con el fin de extraer información significativa para empresas. Es un enfoque multidisciplinario que combina principios y prácticas del campo de las matemáticas, la estadística, la inteligencia artificial y la ingeniería de computación para analizar grandes cantidades de datos.
 
 **Base de datos**: Es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto.
+
+**Estructura de datos**: Es la clasificacion de un dato segun sus caracteristicas. Puede  tratarse de una cadena de un numero, etc.
+
+**Estructura de datos lineales**: Son aquellas en las que los elementos ocupan lugares sucesivos en la estructura y cada uno de ellos tienen un unico sucesor y un unico predecesor.
+
+**Estructura de datos no lineales**: Son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente.
+
+**Estructura de datos dinamica**: Se considera dinamica si para su creacion se van generando o eliminando elementos al momento de ejecucion.
+
+**Estructura de datos estatica**: Son aquellas en las que el tamaño ocupado en la memoria se define antes del que programa se ejecute y no puede modificarse el tamaño mientras se ejecute el programa.
