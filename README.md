@@ -55,7 +55,7 @@ Estructura de datos: son aquellas que nos permiten, como desarrolladores, organi
 
 ## UNIDAD II 🫡
 
-### CONCEPTOS:
+### ACTIVIDAD 2.1 CONCEPTOS:
 
 **Listas**: Es una estructura de datos residente en la memoria que se llena con un conjunto de nombres extraídos de una fuente externa, como por ejemplo un archivo sin formato. 
 
